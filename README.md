@@ -1,0 +1,1 @@
+# Source code\n\nRefactor repeatable ETL and metric logic from the notebook into importable Python modules here as a next improvement. Keep notebooks focused on orchestration, analysis, and visual storytelling.\n
